@@ -6,3 +6,6 @@ Wu, J., Sun, Y., Wang, M., Liu, M. (2019) Hand-eye Calibration: 4D Procrustes An
 
 # Open Dataset
 A synced sequence of camera image and poses from end-effector can be downloaded from https://github.com/zarathustr/hand_eye_data.
+
+# Video
+https://youtu.be/vr78pEbBn2w
